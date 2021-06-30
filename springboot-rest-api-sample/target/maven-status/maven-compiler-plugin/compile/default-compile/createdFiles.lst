@@ -1,0 +1,4 @@
+br\com\spingboot\jdev\Application.class
+br\com\spingboot\jdev\model\Usuario.class
+br\com\spingboot\jdev\repository\UsuarioRepository.class
+br\com\spingboot\jdev\controllers\GreetingsController.class
